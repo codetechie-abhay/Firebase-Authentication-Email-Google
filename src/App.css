@@ -1,0 +1,162 @@
+.sign-up-page {
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.sign-up-page h1 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.sign-up-page label {
+  display: block;
+  margin: 10px 0 8px;
+  font-weight: bold;
+  color: #555;
+}
+
+.sign-up-page input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.sign-up-page button {
+  background-color: #4caf50;
+  color: #ffffff;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.sign-up-page button:hover {
+  background-color: #45a049;
+}
+
+
+/* sign up */
+.sign-in-page {
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.sign-in-page h1 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.sign-in-page label {
+  display: block;
+  margin: 10px 0 8px;
+  font-weight: bold;
+  color: #555;
+}
+
+.sign-in-page input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.sign-in-page button {
+  background-color: #3498db;
+  color: #ffffff;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.sign-in-page button:hover {
+  background-color: #297fb8;
+}
+/*  */
+/*  */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  background: url('./tungnath.jpg') center/cover fixed no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 10.2); /* Change the last value (0.5) for opacity */
+}
+
+.App {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.8); /* Change the last value (0.8) for opacity */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.app-content {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  background-color: #3498db;
+  color: #ffffff;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #297fb8;
+}
