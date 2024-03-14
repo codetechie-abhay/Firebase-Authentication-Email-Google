@@ -63,6 +63,3 @@ Contributions are welcome! Please feel free to open a pull request or submit an 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Remember to replace the placeholders like `<YOUR-PROJECT-ID>` with actual values specific to your Firebase project.
